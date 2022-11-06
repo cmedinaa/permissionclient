@@ -1,0 +1,15 @@
+com\cmedinaa\permissions\client\controller\PermissionController.class
+com\cmedinaa\permissions\client\ServerApplication.class
+com\cmedinaa\permissions\client\conversion\dto\RoleDTO.class
+com\cmedinaa\permissions\client\services\impl\ResourceProxyServiceImpl.class
+com\cmedinaa\permissions\client\conversion\dto\PermissionDTO.class
+com\cmedinaa\permissions\client\conversion\dto\RolePermissionDTO.class
+com\cmedinaa\permissions\client\conversion\dto\HierarchyDTO.class
+com\cmedinaa\permissions\client\services\ResourceProxyService.class
+com\cmedinaa\permissions\client\conversion\dto\UserPermissionDTO.class
+com\cmedinaa\permissions\client\conversion\builders\WebClientBuilder.class
+com\cmedinaa\permissions\client\conversion\dto\GroupPermissionDTO.class
+com\cmedinaa\permissions\client\conversion\builders\impl\WebClientBuilderImpl.class
+com\cmedinaa\permissions\client\conversion\dto\GroupDTO.class
+com\cmedinaa\permissions\client\controller\impl\PermissionControllerImpl.class
+com\cmedinaa\permissions\client\conversion\dto\UserDTO.class
